@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "TestGFSK_IDF", "TestGFSK_IDF.vgdbproj", "{BBCCD216-808E-4F71-956F-144E57933B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+		Tests (Debug)|VisualGDB = Tests (Debug)|VisualGDB
+		Tests (Release)|VisualGDB = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Tests (Debug)|VisualGDB.ActiveCfg = Tests (Debug)|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Tests (Debug)|VisualGDB.Build.0 = Tests (Debug)|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Tests (Release)|VisualGDB.ActiveCfg = Tests (Release)|VisualGDB
+		{BBCCD216-808E-4F71-956F-144E57933B26}.Tests (Release)|VisualGDB.Build.0 = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
